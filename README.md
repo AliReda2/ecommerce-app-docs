@@ -77,11 +77,15 @@ This project demonstrates practical full-stack engineering skills, including:
 # Hero
 <img width="1903" height="784" alt="image" src="https://github.com/user-attachments/assets/d36c5b5b-9e55-4cc1-a596-ae192ec34ba2" />
 
+# Special Tags
+<img width="1905" height="1080" alt="image" src="https://github.com/user-attachments/assets/bef2d6ac-a338-42ba-867d-1b63b051c1d5" />
+
+
 # CategoryCarousel
 <img width="1903" height="513" alt="image" src="https://github.com/user-attachments/assets/d14e8fb4-237c-473e-8bfd-c4222233a671" />
 
 # Products
-<img width="1905" height="1080" alt="image" src="https://github.com/user-attachments/assets/23ebaff3-62a9-43ad-a3a1-a7fdc3940f86" />
+<img width="1905" height="1080" alt="image" src="https://github.com/user-attachments/assets/683730aa-66b3-4d74-9563-e538059857b5" />
 
 # Footer
-<img width="1905" height="534" alt="image" src="https://github.com/user-attachments/assets/b0f623c6-c890-4f49-a124-34a30b61bcbd" />
+<img width="1904" height="533" alt="image" src="https://github.com/user-attachments/assets/a69537ad-0666-4c7a-95e3-e1cbed7b4ed6" />
